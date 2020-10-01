@@ -10,7 +10,7 @@ then look at the port debugger has chosen (it should assign 9229 by default but 
 
 Attach debugger. Try to refresh the page several times. Stop at the line 25 `in server.js`
 
-Look at the content of overmind.state.brands.brands:
+Look at the content of `overmind.state.brands.brands`:
 You should see something like:
 
 ![debugger](misc/2.png)
