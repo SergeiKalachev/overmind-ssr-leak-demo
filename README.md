@@ -4,6 +4,8 @@
  npm start -- --inspect-brk
 ```
 
-then look at the port debugger has chosen:
+then look at the port debugger has chosen (it should assign 9229 by default but it doesn't):
 
-![port](misc/Screen Shot 2020-10-01 at 6.30.16 PM.png)
+![port](misc/3.png)
+
+
