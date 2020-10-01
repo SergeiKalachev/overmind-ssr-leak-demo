@@ -1,4 +1,10 @@
 ## Steps to reproduce
+first
+```bash
+ npm install
+```
+
+then
 
 ```bash
  npm start -- --inspect-brk
